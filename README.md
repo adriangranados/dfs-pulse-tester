@@ -4,4 +4,11 @@ Dynamic Frequency Selection (DFS) is a mechanism that allows a radio device to d
 
 For more information on DFS in the context of Wi-Fi systems see [A Practical Introduction to Dynamic Frequency Selection](https://www.adriangranados.com/blog/practical-intro-dfs).
 
-*Disclaimer: This flow graph is provided for testing purposes only. Check local and federal regulations and obtain permission before using.*
+## Authors
+
+* Adrian Granados - [@adriangranados](https://twitter.com/adriangranados)
+* Nigel Bowden - [@wifinigel](https://twitter.com/wifinigel)
+
+## Disclaimer
+
+*This flow graph is provided for testing purposes only. Check local and federal regulations and obtain permission before using.*
