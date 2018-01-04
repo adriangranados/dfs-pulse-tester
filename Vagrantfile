@@ -13,7 +13,7 @@ Vagrant.configure(2) do |config|
   config.vm.box = "ubuntu/xenial64"
 
   if Vagrant.has_plugin?("vagrant-vbguest")
-    config.vbguest.auto_update = false
+    config.vbguest.auto_update = true
   end
 
   config.vm.provider "virtualbox" do |vb|
