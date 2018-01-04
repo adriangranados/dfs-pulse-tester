@@ -24,7 +24,7 @@ vagrant reload
 5. Launch the GRC (GNU Radio Companion) application and open the *dfs_pulse_tester.grc* file (if you're using the VM provisioned using the steps above, the file will be located in */home/hackrf/*).
 6. Play the flow graph, then select the channel, radar signature and start the pulse (*Pulse > Start*).
 
-Once done, you can stop the VM by typing ```vagrant halt```. To start the VM again, just type ```vagrant up```. Make sure you run these commands from the same directory the Vagrantfile is located.
+If you're using Vagrant, you can stop the VM by typing ```vagrant halt```. To start the VM again, just type ```vagrant up```. Make sure you run these commands from the same directory the Vagrantfile is located.
 
 ## Authors
 
