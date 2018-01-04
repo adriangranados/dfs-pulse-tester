@@ -15,6 +15,7 @@ Follow these steps to automatically setup and provision an Ubuntu virtual machin
 ```bash
 git clone https://github.com/adriangranados/dfs-pulse-tester.git
 cd dfs-pulse-tester
+vagrant plugin install vagrant-vbguest
 vagrant up
 vagrant reload
 ```
