@@ -4,7 +4,7 @@ Dynamic Frequency Selection (DFS) is a mechanism that allows a radio device to d
 
 ![DFS Pulse Tester](../master/dfs_pulse_tester.png "DFS Pulse Tester")
 
-For more information on DFS in the context of Wi-Fi networks see [A Practical Introduction to Dynamic Frequency Selection](https://www.adriangranados.com/blog/practical-intro-dfs).
+For more information on DFS in the context of Wi-Fi networks see [A Practical Introduction to Dynamic Frequency Selection](https://www.intuitibits.com/2017/11/17/practical-intro-dfs).
 
 ## Instructions
 
