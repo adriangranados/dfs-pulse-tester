@@ -19,7 +19,7 @@
     <param>
       <key>comment</key>
       <value>DFS tester to verify AP DFS operation
-using HackRF One SDR. 
+using HackRF One SDR.
 
 Contributions:
  - Adrian Granados (original author)
@@ -247,7 +247,7 @@ pattern we would like to test - NB</value>
     </param>
     <param>
       <key>labels</key>
-      <value>["FCC Type 0", "FCC Type 1", "FCC Type 2", "FCC Type 3", "FCC Type 4"]</value>
+      <value>["FCC Type 0", "FCC Type 1", "FCC Type 2", "FCC Type 3", "FCC Type 4", "ETSI Type 0", "ETSI Type 1", "ETSI Type 2", "ETSI Type 3", "ETSI Type 4", "ETSI Type 5", "ETSI Type 6"]</value>
     </param>
     <param>
       <key>num_opts</key>
@@ -274,8 +274,32 @@ pattern we would like to test - NB</value>
       <value>4</value>
     </param>
     <param>
+      <key>option5</key>
+      <value>5</value>
+    </param>
+    <param>
+      <key>option6</key>
+      <value>6</value>
+    </param>
+    <param>
+      <key>option7</key>
+      <value>7</value>
+    </param>
+    <param>
+      <key>option8</key>
+      <value>8</value>
+    </param>
+    <param>
+      <key>option9</key>
+      <value>9</value>
+    </param>
+    <param>
+      <key>option10</key>
+      <value>10</value>
+    </param>
+    <param>
       <key>options</key>
-      <value>[ [1]*1 + [0]*1428, [1]*1 + [0]*1000, [1]*5 + [0]*200, [1]*8 + [0]*350, [1]*15 + [0]*250] </value>
+      <value>[ [1]*1 + [0]*1428, [1]*1 + [0]*1000, [1]*5 + [0]*200, [1]*8 + [0]*350, [1]*15 + [0]*250, [1]*1 + [0]*1428, [1]*1 + [0]*1000, [1]*2 + [0]*1000, [1]*2 + [0]*300, [1]*25 + [0]*350, [1]*1 + [0]*2500, [1]*1 + [0]*833 ] </value>
     </param>
     <param>
       <key>orient</key>
@@ -479,9 +503,9 @@ pattern we would like to test - NB</value>
     </param>
     <param>
       <key>comment</key>
-      <value>Added as suggested by 
+      <value>Added as suggested by
 messages in warning
-window of GRC - not 
+window of GRC - not
 really sure of its impact,
 but believe it protects
 CPU util - NB</value>
